@@ -1,0 +1,61 @@
+body {
+	background-color:lightblue;
+}
+
+h1{
+	color:navy;
+	background-color:green;
+	margin-left:20px;
+}
+
+div {
+	background-color:lightblue;
+}
+
+p {
+	background-color:yellow;
+}
+
+
+body{
+	background-image:url('doggie.jpg');
+	background-position:bottom right;
+	background-repeat:repeat-y;
+	background-attachment:fixed;
+	background-color:lightgreen;
+}
+p{
+	font-size:18pt;
+	color:blue;
+	text-indent:5em;
+}
+
+.dark{
+	font-size:30pt;
+	color:red;
+	font-weight:bold;
+}
+
+img{
+	float:right;
+	margin:0 0 10px 10px;
+}
+
+p{
+	padding-top:50px;
+	padding-right:30px;
+	padding-bottom:50px;
+	padding-left:80px;
+}
+
+p{
+	padding:50px 30px 50px 80px;
+}
+
+div{
+	border:1px solid black;
+	margin-top:50px;
+	margin-bottom:150px;
+	margin-left:80px;
+	backround-color:lightblue;
+}
